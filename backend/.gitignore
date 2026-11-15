@@ -1,0 +1,6 @@
+.env
+*.db
+output/*
+!output/.gitkeep
+image-cache/*
+!image-cache/.gitkeep
